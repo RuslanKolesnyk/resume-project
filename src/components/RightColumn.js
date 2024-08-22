@@ -15,7 +15,7 @@ const RightColumn = () => {
 			</div>
 			<div className='resume__section'>
 				<h2><FaGraduationCap /> Vzdělání</h2>
-				<p>06.08.2006-03.12.2010 - Vyšší odborné vzdělání.(Ukrajina)</p>
+				<p>Vyšší odborné vzdělání (MOD) <br />Technologická odborná škola v Žytomyru, součást Kyjevské národní univerzity stavební a architektury</p>
 			</div>
 			<div className='resume__section'>
 				<h2><FaLaptopCode /> Dovednosti</h2>
